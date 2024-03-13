@@ -1,0 +1,5 @@
+{"level":"info","message":"Server is running on http://localhost:3000","timestamp":"2024-03-13T12:29:10.349Z"}
+{"email":"advikbrown@gmail.com","level":"info","message":"New user created","timestamp":"2024-03-13T12:29:16.476Z"}
+{"email":"advikbrown@gmail.com","level":"info","message":"Password set successfully","timestamp":"2024-03-13T12:29:22.557Z"}
+{"email":"advikbrown@gmail.com","level":"info","message":"Invalid password","timestamp":"2024-03-13T12:29:30.903Z"}
+{"email":"advikbrown@gmail.com","level":"info","message":"Invalid password","timestamp":"2024-03-13T12:30:03.431Z"}
